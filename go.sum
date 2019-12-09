@@ -1,0 +1,8 @@
+github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575 h1:kHaBemcxl8o/pQ5VM1c8PVE1PubbNx3mjUr09OqWGCs=
+github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575/go.mod h1:9d6lWj8KzO/fd/NrVaLscBKmPigpZpn5YawRPw+e3Yo=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/stamp/go-openssl v0.0.0-20151130221228-b5cda0941b72 h1:F7RnKpXabV0bGNpGWAPoNvsJ5YVmDbd6SwIOSkiXqok=
+github.com/stamp/go-openssl v0.0.0-20151130221228-b5cda0941b72/go.mod h1:gvdDT3dBz4lS3LSceTqu50Izk4eoHmhZ+4IGDMvVsLo=
+github.com/stamp/go-openvpn v0.0.0-20170402154221-4b07208dbd53 h1:ydqYUBm2ocxodqQVXhkGB+4zgchg+6tTnBXg4OAMueQ=
+github.com/stamp/go-openvpn v0.0.0-20170402154221-4b07208dbd53/go.mod h1:zfW0xNtAKtTyYnG+xDKGR+/bBBTVigESELKlNPW+D0M=

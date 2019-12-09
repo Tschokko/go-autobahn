@@ -1,0 +1,6 @@
+{
+  "dev": "tun",
+  "proto": "tcp-server",
+  "port": "9443",
+  "ifconfig": "10.8.0.1 10.8.0.2"
+}
