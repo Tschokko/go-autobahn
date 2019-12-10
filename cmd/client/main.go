@@ -32,7 +32,7 @@ func newOpenVPNClient(cert, key string) *openvpn.Process {
 	c.Flag("comp-lzo")
 
 	// SSL
-	c.Set("ca", "./ssl/ca/ca.crt")
+	c.Set("ca", "./spikes/pki/root-ca.crt")
 	// c.Set("crl-verify", ca.GetCRLPath())
 	c.Set("cert", cert)
 	c.Set("key", key)
